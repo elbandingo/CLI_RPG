@@ -18,5 +18,8 @@
   "homepage": "https://github.com/elbandingo/CLI_RPG#readme",
   "devDependencies": {
     "jest": "^27.4.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
